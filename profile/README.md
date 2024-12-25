@@ -81,7 +81,8 @@ RePick의 사용자 인터페이스(UI)는 간단하고 직관적으로 설계�
 
 #### 3. **추천 리포트 화면**
 개인화된 금융 리포트를 추천받는 화면입니다.  
-<img width="1440" alt="RePick_recommend_main" src="https://github.com/user-attachments/assets/c98cb72f-0814-47d0-aed0-2d0dfa64928a" />
+<img width="1440" alt="RePick_recommend_main" src="https://github.com/user-attachments/assets/cce67d1e-49b6-4306-93b5-15fa0ec65468" />
+
 
 
 
