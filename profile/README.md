@@ -13,7 +13,7 @@ RePick의 시스템 아키텍처는 금융 리포트 제공과 개인화된 추�
 
 ### 📊 아키텍처 다이어그램
 
-![Fullstack_RePick_아키텍처](https://github.com/user-attachments/assets/c6ae5b0f-0a46-45c1-9828-379c52d40d16)
+![Fullstack_RePick_아키텍처](https://github.com/user-attachments/assets/eb055bc8-712f-41ca-875d-90c810c4f4bd)
 
 
 ---
